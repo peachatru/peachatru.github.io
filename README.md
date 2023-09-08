@@ -7,4 +7,4 @@ live demo: [here](https://peachatru.github.io)
 
 ## Wireframes 
 - I've used Framer to create my wireframes and the overall design can be previewed [here](https://tiffany-truong.framer.ai/)
-- I've also used a [Color Contrast Checker](https://colourcontrast.cc/7251b5/ffffff) to make sure my page is accessible for all viewers.
+- I've also used a [Color Contrast Checker](https://colourcontrast.cc/d2b7e5/000000) to make sure my page is accessible to all viewers.
